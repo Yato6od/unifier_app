@@ -1,0 +1,14 @@
+# Ignorar entorno virtual
+venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Archivos generados por la aplicación
+logs_auditoria.csv
+*.xlsx
+*.csv
+
+# Archivos temporales
+.DS_Store
